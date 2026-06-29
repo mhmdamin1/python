@@ -1,0 +1,12 @@
+# program to convert from kilmeter to mm
+
+# kilo = 1000mm 
+
+kilo = int(input("enter the weight you have:  "))
+
+mm = kilo/1000
+
+print(f"the mm is: ",mm)
+
+
+
