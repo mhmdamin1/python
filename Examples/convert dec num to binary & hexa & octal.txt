@@ -1,0 +1,15 @@
+# mhmd amiin 
+ 
+
+dec = int(input("enter your dec number: "))
+
+print("The decimal value of", dec, "is:",dec) 
+
+# binary value 
+print(bin(dec), "in binary.") 
+
+# hexa value 
+print(hex(dec), "in hexadecimal.")
+
+# octal value 
+print(oct(dec), "in octal.")
