@@ -1,0 +1,11 @@
+# mhmd amiin
+
+# take input from user
+num = int(input("enter the num: "))
+
+print("the factors are: ")
+# for loop through all nums 
+for i in range(1, num + 1):
+    # check 
+    if num % i == 0:
+        print(i)
