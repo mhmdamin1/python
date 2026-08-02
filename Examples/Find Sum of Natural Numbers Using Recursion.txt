@@ -1,0 +1,19 @@
+
+# MHMD AMIIN
+
+# Python program to find the sum of natural using recursive function
+ 
+ # recrsive function to find the sum
+def recursive_sum(n):
+   if n <= 1:
+       return n
+   else:
+       return n + recursive_sum(n-1)
+
+# TAKE input from user
+num = int(input("enter the number: "))
+
+if num < 0:
+   print("Enter a positive number")
+else:
+   print("The sum is",recursive_sum(num))
