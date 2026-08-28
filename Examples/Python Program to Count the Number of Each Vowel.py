@@ -12,3 +12,8 @@ for char in TheSentence:
         count[char] += 1
 
 print(count)
+
+
+the out : 
+enter your string: Hello, how are you man, long time no see
+{'a': 2, 'e': 5, 'u': 1, 'i': 1, 'o': 5}
