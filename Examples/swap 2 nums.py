@@ -1,4 +1,4 @@
-# mohamed Amin / محمد امين
+# mohamed Amin #محمد امين
 # we will do the swaping by 2 ways
 # 1
 a = int(input("enter first num  "))
