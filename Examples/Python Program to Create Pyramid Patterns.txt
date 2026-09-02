@@ -8,3 +8,11 @@ for i in range(rows):
 	print()
 	
 		
+out :
+
+enter the num of rows: 5
++
+++
++++
+++++
++++++
