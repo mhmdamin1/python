@@ -1,0 +1,24 @@
+#mhmd amin 
+
+#define two sets 
+E = {0,1,2,3,4,5}
+N = {1,2,4,5,8,10}
+
+#set union 
+print("uni of E and N is : ", E | N)
+
+#set intersection 
+print("intersection of E and N is : ", E & N)
+
+# set diff
+print("diff of E and N is : ", E - N)
+
+
+# set symmetric diff
+print("symmetric diff of E and N is : ", E ^ N)
+
+#out is :
+#    uni of E and N is :  {0, 1, 2, 3, 4, 5, 8, 10}
+#    intersection of E and N is :  {1, 2, 4, 5}
+#    diff of E and N is :  {0, 3}
+#    symmetric diff of E and N is :  {0, 3, 8, 10}
