@@ -1,0 +1,21 @@
+
+print("mhmd amiin")
+
+l1 = [1, "a", 5]
+l2 = [1, 2, 3, 4]
+
+L_join = l1+l2 
+print("l_join is = ",  L_join)
+
+
+
+
+
+
+
+
+
+out put: 
+
+mhmd amiin
+l_join is =  [1, 'a', 5, 1, 2, 3, 4]
