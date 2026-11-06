@@ -1,0 +1,14 @@
+#mhmd amiin
+
+my_dict = {9: 'a',  19: 'b', 29: 'c'}
+
+del my_dict[19]
+
+print(my_dict)
+
+""" 
+out put :
+
+{9: 'a', 29: 'c'}
+
+"""
