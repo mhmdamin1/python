@@ -1,0 +1,5 @@
+hamilton = 7 
+norris = 1 
+alonso = 1
+verstapen = 4 
+antonaly = 1
