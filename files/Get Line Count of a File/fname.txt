@@ -1,4 +1,0 @@
-ham = 7 
-nor = 1 
-alonso = 1 
-ver = 4
