@@ -1,0 +1,14 @@
+#mhmd amiin 
+#program to reverse number 
+
+num = 12345
+
+print(str(num)[::-1]) 
+
+
+"""
+out put:
+
+54321
+
+"""
