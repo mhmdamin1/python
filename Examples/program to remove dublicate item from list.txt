@@ -1,0 +1,27 @@
+# mhmh amiin 
+
+l1 = [1, 2, 3, 4, 1, 3, 5]
+
+print(list(set(l1)))
+
+"""
+output:
+
+[1, 2, 3, 4, 5]
+
+"""
+
+#if i need to remove the duplicate items from 2 lists we use ( ^ ) to get the symmitric diffrence of 2 lists
+
+l1 = [1, 2, 3, 4, 1, 3, 5]
+
+l2= [1, 2, 7, 8, 9]
+
+print(list(set(l1)^set(l2)))
+
+"""
+output:
+
+[3, 4, 5, 7, 8, 9]
+
+"""
